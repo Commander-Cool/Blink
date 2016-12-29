@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Blink</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="username_placeholder">Username</string>
+    <string name="password_placeholder">Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="blank_username">Username/Password cannot be blank</string>
+    <string name="no_account_question">Don’t Have an Account? Sign Up</string>
+    <string name="have_account_login">Already have an account? Sign In</string>
+
+    <string name="invalid_username">Username cannot exceed 25 characters</string>
+
+    <string name="server_down">An error occurred please try again later</string>
+
+    <string name="error_has_occurred">An Error has Occurred</string>
+    <string name="username_taken">Username taken</string>
+    <string name="account_disabled">Your account has been disabled</string>
+    <string name="user_not_found">Wrong username/password</string>
+
+    <string name="action_sign_up">Sign Up</string>
+
+    <string name="no_network">No Network Access</string>
+
+    <string name="valid">Valid</string>
+
+    <string name="special_chars_username">Username can only contain letters numbers and underscores</string>
+
+</resources>

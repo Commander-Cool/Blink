@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "132747653601",
+    "firebase_url": "https://blink-4c869.firebaseio.com",
+    "project_id": "blink-4c869",
+    "storage_bucket": "blink-4c869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132747653601:android:e2be3e10241eebb3",
+        "android_client_info": {
+          "package_name": "com.capstone.blink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132747653601-faoifq660lmmonuv9ehpv2dmpb6ftkin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HmEEvTNvv3guYL20U4pyH2ugz6mpipo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
